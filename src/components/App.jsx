@@ -1,4 +1,3 @@
-import React, { Component } from 'react';
 import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
 import { NotificationMessage } from './NotificationMessage/NotificationMessage';
 import { Section } from './Section/Section';
